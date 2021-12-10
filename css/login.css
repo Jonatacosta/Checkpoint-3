@@ -95,7 +95,7 @@
       border-radius: 20px;
   }
 
-  button {
+  button{
     margin-top: 15px;
     height: 32px;
     width: 100px;
@@ -112,4 +112,7 @@
     border-radius: 50px;
     cursor: pointer;
     
+  }
+  a {
+    text-decoration: none;
   }
