@@ -5,3 +5,9 @@ main {
     background-attachment: fixed;
     padding: 10rem 2rem;
 }
+
+article h2 {
+    font-size: 15px;
+    color: var(--white);
+    margin-top: 20px;
+  }

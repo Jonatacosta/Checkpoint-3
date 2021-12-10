@@ -175,6 +175,13 @@ footer {
     
   }
 
+  footer article h2 {
+    text-align: center;
+    font-size: 10px;
+    color: var(--white);
+    margin-top: 20px;
+  }
+
 @media (max-width:238px){
     .menuSobre{
         display: block;
