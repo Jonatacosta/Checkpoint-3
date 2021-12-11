@@ -58,6 +58,7 @@ html{
     color: var(--white);
     font-weight: bolder;
     font-size: 2rem;
+    text-decoration: none;
     
   }
   

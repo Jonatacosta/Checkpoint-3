@@ -2,7 +2,7 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  text-decoration: none;
+
 }
 
 html{
@@ -57,6 +57,7 @@ nav.menu {
   font-weight: bolder;
   font-size: 2rem;
   margin-top: 5px;
+  text-decoration: none;
   
 }
 
@@ -109,6 +110,7 @@ section.banner a{
     color: var(--white);
     padding: 1rem 4rem;
     border-radius: 2.5rem;
+    text-decoration: none;
 }
 .mt-5{
   margin-top: 5px;
