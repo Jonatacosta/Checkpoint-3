@@ -181,7 +181,17 @@ footer {
     color: var(--white);
     margin-top: 20px;
   }
-
+  
+  .menu-footer img {
+    width: 20px;
+    margin-top: 5px;
+  }
+  
+  .menu-footer img:hover {
+    width: 25px;
+    margin-top: 5px;
+    transition: 0.5s;
+  }
 @media (max-width:238px){
     .menuSobre{
         display: block;
